@@ -21,7 +21,7 @@ const App: React.FC = () => {
       <footer className="bg-white dark:bg-gray-900 py-8 border-t border-gray-200 dark:border-gray-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-center md:justify-between items-center gap-4">
           <div className="flex items-center gap-2">
-            <span className="font-bold text-lg">Jenil <span className="text-indigo-600">Kalariya</span></span>
+            <span className="font-bold text-lg">Jenil Kalariya</span>
             <span className="text-gray-400 mx-2">|</span>
             <p className="text-gray-500 text-sm">
               © {new Date().getFullYear()} Jenil Kalariya.
